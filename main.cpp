@@ -99,7 +99,6 @@ int main()
 
 int menu()
 {
-    struct dados c;
     int escolha;
     system("cls");
     printf("----------Sitema de interacao ao usuario----------\n");
